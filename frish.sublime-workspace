@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cdic"
+			],
+			[
+				"mat",
+				"mat_T"
+			],
+			[
+				"po",
+				"post_order"
+			],
+			[
+				"vis",
+				"visits"
+			],
+			[
+				"no",
+				"no_of_vertices"
+			],
+			[
+				"no_",
+				"no_of_vertices"
+			],
+			[
+				"f",
+				"findall"
+			],
+			[
+				"df",
+				"df_count"
+			],
+			[
+				"lis",
+				"listexponents"
+			],
+			[
+				"fa",
+				"factorGenerator"
+			],
+			[
+				"prime",
+				"primefactors"
+			],
+			[
+				"n",
+				"nVertices"
+			],
+			[
+				"ex",
+				"explore"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"de",
+				"decrypt"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"hx",
+				"hx_y_x_X"
+			],
+			[
+				"J",
+				"J_history"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"ph",
+				"phone_book"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"Tea",
+				"TeacherNewForm"
+			],
+			[
+				"studnets",
+				"students"
+			],
+			[
+				"stuednts",
+				"students"
+			],
+			[
+				"Creat",
+				"CreateView"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"rl",
+				"rl_post_save_receiver"
+			],
+			[
+				"rl_",
+				"rl_pre_save_receiver"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"St",
+				"StudentInfo"
+			],
+			[
+				"has",
+				"hash_"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"ha",
+				"hash_"
+			],
+			[
+				"name",
+				"name_to_num"
+			],
+			[
+				"num",
+				"num_to_name"
+			],
+			[
+				"hom",
+				"home2"
+			],
+			[
+				"stu",
+				"stu_age"
+			],
+			[
+				"ma",
+				"max_element"
+			],
+			[
+				"thr",
+				"thread_index"
+			],
+			[
+				"thread_",
+				"thread_size"
+			],
+			[
+				"thre",
+				"thread_size"
+			],
+			[
+				"th",
+				"threads"
+			],
+			[
+				"pro",
+				"priority"
+			],
+			[
+				"t",
+				"thread_time"
+			],
+			[
+				"se",
+				"size"
+			],
+			[
+				"shi",
+				"shift_up"
+			],
+			[
+				"ret",
+				"returnable"
+			],
+			[
+				"sh",
+				"shift_down"
+			],
+			[
+				"mini",
+				"minimum_element"
+			],
+			[
+				"the",
+				"thread"
+			],
+			[
+				"pr",
+				"print_data"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"he",
+				"heap_builder"
+			],
+			[
+				"hea",
+				"heap_sort"
+			],
+			[
+				"max",
+				"max_index"
+			],
+			[
+				"X_",
+				"X_test"
+			],
+			[
+				"ans",
+				"answer_six"
+			],
+			[
+				"y_",
+				"y_train"
+			],
+			[
+				"answ",
+				"answer_four"
+			],
+			[
+				"a",
+				"average"
+			],
+			[
+				"di",
+				"display_string"
+			],
+			[
+				"genre",
+				"genre_id"
+			],
+			[
+				"for",
+				"forgot_pass_url"
+			],
+			[
+				"BRU",
+				"BruteForce"
+			],
+			[
+				"get",
+				"get_height"
+			],
+			[
+				"passo",
+				"password"
+			],
+			[
+				"pass",
+				"passwords"
+			],
+			[
+				"Pa",
+				"Pass_4"
+			],
+			[
+				"pl",
+				"plt"
+			],
+			[
+				"sta",
+				"state_list"
+			],
+			[
+				"plot",
+				"plotter"
+			],
+			[
+				"dic",
+				"dic_boys"
+			],
+			[
+				"gir",
+				"girls_states"
+			],
+			[
+				"gi",
+				"girls_states"
+			],
+			[
+				"max_",
+				"max_of_this"
+			],
+			[
+				"scatter_this_da",
+				"scatter_this_day"
+			],
+			[
+				"year",
+				"Year"
+			],
+			[
+				"sc",
+				"scatter_this_temp"
+			],
+			[
+				"sca",
+				"scatter_this_date"
+			],
+			[
+				"T",
+				"Max_Temp"
+			],
+			[
+				"Da",
+				"Day"
+			],
+			[
+				"li",
+				"no_of_days_list"
+			],
+			[
+				"maximu",
+				"maximum_before_2015"
+			],
+			[
+				"to",
+				"to_csv"
+			],
+			[
+				"M",
+				"Min_Temp"
+			],
+			[
+				"plo",
+				"plotter"
+			],
+			[
+				"Tem",
+				"Min_Temp"
+			],
+			[
+				"dates",
+				"dates_above_2015_df"
+			],
+			[
+				"date",
+				"dates_above_2015_df"
+			],
+			[
+				"Max",
+				"Max_Temp"
+			],
+			[
+				"min",
+				"min_of_this"
+			],
+			[
+				"Dat",
+				"Data_Value"
+			],
+			[
+				"Min",
+				"Min_Temp"
+			],
+			[
+				"s",
+				"scatter_this_temp"
+			],
+			[
+				"Ma",
+				"Max_Temp"
+			],
+			[
+				"da",
+				"date_below_2015"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"new",
+				"new_x1"
+			],
+			[
+				"re",
+				"result_df"
+			],
+			[
+				"min_",
+				"min_on_this_date"
+			],
+			[
+				"Op",
+				"Options_available"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"last",
+				"last_name_cgpa"
+			],
+			[
+				"no_of_",
+				"no_of_last_names"
+			],
+			[
+				"sin",
+				"single_name_students"
+			],
+			[
+				"No",
+				"No_of_students"
+			],
+			[
+				"C",
+				"CGPA"
+			],
+			[
+				"A",
+				"Address"
+			],
+			[
+				"fo",
+				"Foreign"
+			],
+			[
+				"state",
+				"state_avg"
+			],
+			[
+				"file",
+				"file_list"
+			],
+			[
+				"al",
+				"alpha_box_1"
+			],
+			[
+				"data",
+				"data_f"
+			],
+			[
+				"cu",
+				"count"
+			],
+			[
+				"login",
+				"login_attempts"
+			],
+			[
+				"ignore",
+				"ignore_index"
+			],
+			[
+				"Fo",
+				"foreign_cgpa"
+			],
+			[
+				"fore",
+				"foreign_cgpa"
+			],
+			[
+				"sort",
+				"sorted_by_value"
+			],
+			[
+				"stat",
+				"state_cgpa"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"co",
+				"count_zero"
+			],
+			[
+				"coun",
+				"count_shuf"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sreerammaram/Desktop/ECE191/lpu_records/5kto7k_boys_data.txt",
+		"/Users/sreerammaram/Desktop/ECE191/lpu_records/taking_boys_ids.py",
+		"/Users/sreerammaram/Desktop/Py/bits.py",
+		"/Users/sreerammaram/Desktop/NU Py/wiki.py",
+		"/Users/sreerammaram/Desktop/NU Py/ums/ums_h_random.py",
+		"/Users/sreerammaram/Desktop/cls misc/test.c",
+		"/Users/sreerammaram/Desktop/strongly_con_comps.py",
+		"/Users/sreerammaram/Desktop/MISSION_TAGG/get_details_of_stus.py",
+		"/Users/sreerammaram/Desktop/test.py",
+		"/Users/sreerammaram/Desktop/MISSION_TAGG/setlocation.py",
+		"/Users/sreerammaram/Desktop/MISSION_TAGG/get_stus_in_room.py",
+		"/Users/sreerammaram/Desktop/MISSION_TAGG/reges_of_class.txt",
+		"/Users/sreerammaram/Desktop/Py/matyy_automata.py",
+		"/Users/sreerammaram/Desktop/dfs.py",
+		"/Users/sreerammaram/Desktop/topology_sort2.py",
+		"/Users/sreerammaram/Desktop/cyclic_depecdencies.py",
+		"/Users/sreerammaram/Desktop/topology_sort.py",
+		"/Users/sreerammaram/Desktop/website/myweb.html",
+		"/Users/sreerammaram/Desktop/prac_sql.txt",
+		"/Users/sreerammaram/Desktop/Py/mat.py",
+		"/Users/sreerammaram/Desktop/p/TERM IV/Coursera/Data Structures and algorithms/Graphs/wk_2/assighnment/_8e0f723ed0cef023efb3387b662c8b98_09_graph_decomposition_starter_files_2/strongly_connected/strongly_connected.py",
+		"/Users/sreerammaram/Desktop/dev/beera_sql.txt",
+		"/Users/sreerammaram/Desktop/Py/regex_pracs/re1.py",
+		"/Users/sreerammaram/Desktop/ss/ss_1.py",
+		"/Users/sreerammaram/Desktop/matplot_cop.py",
+		"/Users/sreerammaram/Desktop/Py/unis.py",
+		"/Users/sreerammaram/Desktop/Py/county.py",
+		"/Users/sreerammaram/Desktop/Py/w3.py",
+		"/Users/sreerammaram/Desktop/Py/olym.py",
+		"/Users/sreerammaram/Desktop/Py/merger.py",
+		"/Users/sreerammaram/Desktop/Py/plotting_wk2.py",
+		"/Users/sreerammaram/Desktop/Py/rupee_to_curr/DsC2Wk4.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/versh1.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/coun_nosales.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/reg_nosales.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/versh2.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/priority_count.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/prior.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/dates.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/itemtype.py",
+		"/Users/sreerammaram/Desktop/data_science_class/deving/ts.py",
+		"/Users/sreerammaram/Desktop/nproject.c",
+		"/Users/sreerammaram/Desktop/nt.c",
+		"/Users/sreerammaram/Desktop/devisors.py",
+		"/Users/sreerammaram/Desktop/beera_sql.txt",
+		"/Users/sreerammaram/Desktop/ss/ang/wk_3_ass/machine-learning-ex2/ex2/predict.m",
+		"/Users/sreerammaram/Desktop/Py/json_parsing.py",
+		"/Users/sreerammaram/Downloads/pagerank/spider.py",
+		"/Users/sreerammaram/Desktop/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/sreerammaram/Desktop/fast_hash.py",
+		"/Users/sreerammaram/Desktop/pb.py",
+		"/Users/sreerammaram/Desktop/phonebook.py",
+		"/Users/sreerammaram/Desktop/techgig_lexagonal.py",
+		"/Users/sreerammaram/Desktop/hashing.py",
+		"/Users/sreerammaram/Desktop/prime.py",
+		"/Users/sreerammaram/Desktop/aaaa.py",
+		"/Users/sreerammaram/Desktop/test.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/proj.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/uart com 8051.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/ultraonic intering.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/TRAFFIC.C",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/traffic debugginhh.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/test_ADC.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/taking and giving from port.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/senddd.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/copied thermos .c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/Display/led_bblinkkk.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/Display/display.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/bit wise valuse giving.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/77.C",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/7 seg.c",
+		"/Users/sreerammaram/Desktop/Electro/my Embedded C programs/7 seg incr decr.c",
+		"/Users/sreerammaram/Desktop/Electro/attendance__.c",
+		"/Library/Frameworks/Python.framework/Versions/3.7/include/python3.7m/abstract.h",
+		"/Library/Frameworks/Python.framework/Versions/3.7/include/python3.7m/sysmodule.h",
+		"/Users/sreerammaram/Desktop/bin/activate_this.py",
+		"/Users/sreerammaram/Desktop/data_analysis/analysis/code/pund.py",
+		"/Users/sreerammaram/Desktop/exs/timepass.cpp",
+		"/Users/sreerammaram/Desktop/exs/sort.cpp",
+		"/Users/sreerammaram/Desktop/exs/sort.c",
+		"/Users/sreerammaram/Desktop/exs/kanp.py",
+		"/Users/sreerammaram/Desktop/misc/proc.py",
+		"/Users/sreerammaram/Desktop/misc/party.c",
+		"/Users/sreerammaram/Desktop/misc/hello.c",
+		"/Users/sreerammaram/Desktop/misc/ftree.py",
+		"/Users/sreerammaram/Desktop/NU Py/ums/ums_h_random2.py",
+		"/Users/sreerammaram/Desktop/NU Py/ums/ums_h_random1.py",
+		"/Users/sreerammaram/Desktop/NU Py/wikipediaCrawler.py",
+		"/Users/sreerammaram/Desktop/NU Py/test.py",
+		"/Users/sreerammaram/Desktop/NU Py/quick3_own.py",
+		"/Users/sreerammaram/Desktop/NU Py/majority.py",
+		"/Users/sreerammaram/Desktop/NU Py/mail.py",
+		"/Users/sreerammaram/Desktop/NU Py/maiil.py",
+		"/Users/sreerammaram/Desktop/NU Py/lotty.py",
+		"/Users/sreerammaram/Desktop/NU Py/lot_own.py",
+		"/Users/sreerammaram/Desktop/NU Py/lot_own_naive.py",
+		"/Users/sreerammaram/Desktop/NU Py/inver.py",
+		"/Users/sreerammaram/Desktop/NU Py/inver_own.py3.py",
+		"/Users/sreerammaram/Desktop/NU Py/inver_own.py",
+		"/Users/sreerammaram/Desktop/NU Py/how_many_snakes = 1.py",
+		"/Users/sreerammaram/Desktop/NU Py/hello.py",
+		"/Users/sreerammaram/Desktop/NU Py/hell.py",
+		"/Users/sreerammaram/Desktop/NU Py/first python.py",
+		"/Users/sreerammaram/Desktop/NU Py/fact.py",
+		"/Users/sreerammaram/Desktop/NU Py/binary_own.py",
+		"/Users/sreerammaram/Desktop/NU Py/addition.py",
+		"/Users/sreerammaram/Desktop/gig_3_3.py",
+		"/Users/sreerammaram/Desktop/gig_3_2.py",
+		"/Users/sreerammaram/Desktop/Py/timing.py",
+		"/Users/sreerammaram/Desktop/gig_3_1.py",
+		"/Users/sreerammaram/Desktop/django/first_django/src/teachers/teachers_templates/teacher_show.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/templates/teacher_base.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/templates/teacher_show.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/students/templates/students_templates/student_show.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/students/templates/students_templates/single_student_show.html",
+		"/Users/sreerammaram/Desktop/Py/techgig.py",
+		"/Users/sreerammaram/Desktop/Py/ece191_up_10_sep.zip",
+		"/Users/sreerammaram/Desktop/django/first_django/src/templates/snippets/css.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/templates/snippets/js.html",
+		"/Users/sreerammaram/Desktop/django/first_django/src/students/tests.py",
+		"/Users/sreerammaram/Desktop/django/first_django/src/students/templates/students/utils.py",
+		"/Users/sreerammaram/Desktop/website/applications/gray_scale.html",
+		"/Users/sreerammaram/Downloads/datafile.xml",
+		"/Users/sreerammaram/Desktop/git/README.md",
+		"/Users/sreerammaram/Desktop/django/first_django/src/firstdj/settings/__init__.py",
+		"/Users/sreerammaram/Desktop/django/first_django/src/students/templates/base.html",
+		"/Users/sreerammaram/Desktop/pip-selfcheck.json",
+		"/Users/sreerammaram/datasharing/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "frish.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
