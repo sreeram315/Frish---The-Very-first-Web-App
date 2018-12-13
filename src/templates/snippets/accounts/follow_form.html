@@ -1,0 +1,12 @@
+
+
+
+
+
+<form style="display: inline;"  method="POST" action="{% url 'account-follow' %}" > {% csrf_token %}
+	<input type="hidden" name="username" value="{{username}}">
+	&ensp;&ensp;&ensp;<button class="btn btn-primary">{% if is_following %}Unfollow{% else %}Follow{% endif %}
+	</button>
+
+
+</form>

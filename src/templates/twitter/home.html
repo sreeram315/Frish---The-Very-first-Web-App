@@ -1,0 +1,59 @@
+
+<style type="text/css">
+	.chik{
+		padding-left: 50px;
+
+	}
+	.hen{
+		display: ine;
+		text-align: right;
+		opacity: .6;
+		padding-right: 30px;
+	}
+	.new-tweet{
+		text-align: right;
+		align-content: right;
+		padding-right: 30px;
+		color: red;
+	}
+	.user-name{
+		display: inline;
+		opacity: 0.5;
+	}
+</style>
+
+{% extends 'base.html' %}
+
+
+
+
+{% block cont_ex %}<br/></br>
+<div class="new-tweet"> <a href = {% url 'twitter-newtweet' %} style="color: blue" >Tweet</a></div>
+{% if tweets %}
+<h1 style="padding-left: 30px; color: blue; color: red;">Latest tweets:</h1> 
+<br/></br><br/>
+{% include 'snippets/accounts/account-search-form.html' %}
+
+<div class = "chik" >
+	{% for tweet in tweets %}
+		<div style="display: inline; font-size: 23px">
+			<a href = "{% url 'account-openprofile' slug=tweet.user_link %}"><b> {{tweet.name}}</b></a>
+		 </div> | 
+		 <div class="user-name"> @{{tweet.username}} </div>
+	 <div class="hen" >{{tweet.date_time}}</div><br/>
+	
+	<div style="display: inline; font-family: Arial;padding-left: 10px"> {{tweet.content}} </div><br/><hr/><br/><br/>
+
+
+	{% endfor %}
+	
+</div>
+
+{% else %}
+
+<div class="chik"> No tweets available. Please follow somone </div>
+{% include 'snippets/accounts/account-search-form.html' %}
+
+{% endif %}
+
+{% endblock %}

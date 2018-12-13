@@ -1,0 +1,52 @@
+<style type="text/css">
+.text_input {
+  width: 20%;
+  padding: 6px 20px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.submit {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 15px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #45a049;
+}
+
+
+
+</style>
+{% extends 'base.html' %}
+
+
+
+{% block cont_ex %}
+<form method = "POST">{% csrf_token %}
+
+
+<h1 style="color: red; padding-left: 50px"> Create Counter: </h1><br/><br/>
+{% if form.errors %}
+<div style="color: maroon; text-align: left">
+	{{form.errors}}
+</div>
+{% endif %}
+<div style="padding-left: 70px" >
+	Creater:	<input type="text" name="creater" class="text_input" placeholder="optional"><br/>
+	Name:&ensp;	<input type="text" name="name" class="text_input"><br/>
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	<button type="submit"  class="btn btn-primary">Submit</button>
+</div>
+</form>
+
+{% endblock cont_ex %}

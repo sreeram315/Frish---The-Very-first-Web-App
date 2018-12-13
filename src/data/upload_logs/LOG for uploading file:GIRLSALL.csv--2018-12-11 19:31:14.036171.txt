@@ -1,0 +1,65 @@
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 8547, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 8548, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 8549, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 8550, dtype: datetime64[ns]
+
+
+Failed for RegNo                                   NaN
+Name                                    NaN
+DOB                                     NaT
+CGPA                                    NaN
+Address         - - - - END OF LIST- - - - 
+Section                                 NaN
+Contact                                 NaN
+Batch                                   NaN
+Department                              NaN
+Gender                                  NaN
+Name: 8551, dtype: object
+
+

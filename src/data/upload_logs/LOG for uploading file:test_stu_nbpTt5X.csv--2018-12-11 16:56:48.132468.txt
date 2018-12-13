@@ -1,0 +1,117 @@
+Failed for RegNo                                           11806470
+Name                                      Agella Chilale
+DOB                                  1984-07-10 00:00:00
+CGPA                                                 NaN
+Address                                  Malawi - Malawi
+Section                                            R1801
+Contact                                   265 0999122984
+Batch                                               2018
+Department    P370-NN4 : MBA (Tourism and Hospitality)\n
+Gender                                                 F
+Name: 149, dtype: object
+
+
+Failed for RegNo                                        11803119
+Name                                  Ahmed Awil Isse
+DOB                               1997-01-01 00:00:00
+CGPA                                              NaN
+Address                             Somalia - Somalia
+Section                                         D1807
+Contact                                252 9874569785
+Batch                                            2018
+Department    P123 : B.Sc. (Information Technology)\n
+Gender                                              F
+Name: 153, dtype: object
+
+
+Failed for RegNo                               11807991
+Name                    Aisha Jumanne Sagini
+DOB                      1997-02-13 00:00:00
+CGPA                                     NaN
+Address              Dar Es Salam - Tanzania
+Section                                Q1825
+Contact                       +91 9872643821
+Batch                                   2018
+Department    P321-L : BBA [Lateral Entry]\n
+Gender                                     F
+Name: 163, dtype: object
+
+
+Failed for RegNo                            11700318
+Name                Aishath Hussain Fayaz
+DOB                   1996-07-15 00:00:00
+CGPA                                    8
+Address       G D H .Thinadhoo - Maldives
+Section                             Q1702
+Contact                               NaN
+Batch                                2017
+Department                   P321 : BBA\n
+Gender                                  F
+Name: 165, dtype: object
+
+
+Failed for RegNo                      11812415
+Name          Aishath Hussain Fayaz
+DOB             1996-07-15 00:00:00
+CGPA                            NaN
+Address                      #NAME?
+Section                       Q1806
+Contact              960 0007615083
+Batch                          2018
+Department             P321 : BBA\n
+Gender                            F
+Name: 166, dtype: object
+
+
+Failed for RegNo                                                  11801237
+Name                                         Aisho Muhudin Muse
+DOB                                         1993-02-02 00:00:00
+CGPA                                                        NaN
+Address                                       Somalia - Somalia
+Section                                                   Q1851
+Contact                                         2526 0616467768
+Batch                                                      2018
+Department    P370-NN3 : MBA (Hospital & Healthcare Manageme...
+Gender                                                        F
+Name: 169, dtype: object
+
+
+Failed for RegNo                    11812401
+Name                 Alimatou Jah
+DOB           1981-10-27 00:00:00
+CGPA                          NaN
+Address                    #NAME?
+Section                     Q1840
+Contact             11 0046120472
+Batch                        2018
+Department           P371 : MBA\n
+Gender                          F
+Name: 287, dtype: object
+
+
+Failed for RegNo                                                  11801821
+Name                                Amina Ismail Sokoni Hussein
+DOB                                         1997-07-27 00:00:00
+CGPA                                                        NaN
+Address           P.O.Box 467, Musoma. Tanzania - Mara Tanzania
+Section                                                   Z1751
+Contact                                          +91 9041895961
+Batch                                                      2018
+Department    P521-L : B.Sc. (Medical Laboratory Technology)...
+Gender                                                        F
+Name: 415, dtype: object
+
+
+Failed for RegNo                                                  11815402
+Name                                               Amina M Ally
+DOB                                         1998-02-17 00:00:00
+CGPA                                                        NaN
+Address                                                  #NAME?
+Section                                                   Z1807
+Contact                                          255 7153171111
+Batch                                                      2018
+Department    P501 : Diploma in Medical Lab. Technology (DML...
+Gender                                                        F
+Name: 416, dtype: object
+
+

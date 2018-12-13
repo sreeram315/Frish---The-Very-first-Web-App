@@ -1,0 +1,75 @@
+<style type="text/css">
+	.right-pad-tex{
+		display: inline;
+		text-align: right;
+	}
+</style>
+
+<style type="text/css">
+.classic-table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+{% extends 'base.html' %}
+
+{% block cont_ex %}
+
+
+<br/><br/><br/><br/>
+
+<div style="color: blue; display: inline; font-size: 40px; padding-left: 30px"> {{ object.name }}</div>
+{% if request.user != object.owner %}
+<div style="display: inline;">{% include 'snippets/accounts/follow_form.html' with username=object.owner is_following=is_following %}</div>
+{% endif %}
+<br/><br/>
+<div style="padding-left: 30px">
+<table class="classic-table">
+  <tr>
+    <th>Name:</th> 				<td>{{object.name}}</td>
+  </tr>
+  <tr>
+    <th>Username:</th> 			<td>{{object.username}}</td>
+  </tr>
+   <tr>
+    <th>No. of Followers:</th> 		<td>{{object.followers.count}}</td>
+  </tr>
+  {% if object.followers.count %}
+  <tr>
+    <th>Followers:</th> 		<td>{% for fol in object.followers.all %} {{fol}} | {% endfor %}</td>
+  </tr>
+  {% endif %}
+  <tr>
+    <th>Email:</th>				<td>{{object.cgpa}}</td>
+  </tr>
+  <tr>
+    <th>Date of Birth:</th>		<td>{{object.dob}}</td>
+  </tr>
+  <tr>
+    <th>Address:</th>			<td>{{object.address}}</td>
+  </tr>
+  <tr>
+    <th>Last Updated:</th>		<td>{{object.updated}}</td>
+  </tr>
+  <tr>
+    <th>Description:</th>		<td>{{object.description}}</td>
+  </tr>
+</table>
+</div>
+
+
+
+{% endblock cont_ex %}
+
+

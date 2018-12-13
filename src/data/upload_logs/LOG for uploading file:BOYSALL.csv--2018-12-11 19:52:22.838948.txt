@@ -1,0 +1,91 @@
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30388, dtype: object
+
+
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30389, dtype: object
+
+
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30390, dtype: object
+
+
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30391, dtype: object
+
+
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30392, dtype: object
+
+
+Failed for RegNo         NaN
+Name          NaN
+DOB           NaT
+CGPA          NaN
+Address       NaN
+Section       NaN
+Contact       NaN
+Batch         NaN
+Department    NaN
+Gender          M
+Name: 30393, dtype: object
+
+
+Failed for RegNo                                   NaN
+Name                                    NaN
+DOB                                     NaT
+CGPA                                    NaN
+Address         - - - - END OF LIST- - - - 
+Section                                 NaN
+Contact                                 NaN
+Batch                                   NaN
+Department                              NaN
+Gender                                    M
+Name: 30394, dtype: object
+
+

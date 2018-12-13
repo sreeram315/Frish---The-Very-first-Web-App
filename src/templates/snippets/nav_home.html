@@ -1,0 +1,46 @@
+<div class='nav_home>' style="text-align: center;">
+<a href="{% url 'home' %}">Home </a>|
+<a href="{% url 'contact'  reg_id='' %}">Contact </a>|
+<a href="{% url 'about' %}">About </a>
+
+{% if request.user.is_authenticated %}
+
+	| <a href="{% url 'students-list'  reg_id='' %}">Student list </a> 
+	| <a href="/accounts/account-list/?q=">Users </a>
+	| <a href="{% url 'twitter-home' %}">Twitter </a>
+	| <a href="{% url 'counter-create' %}">Counter</a>
+	| <a href="{% url 'shortenurl-create' %}">ShortenUrl</a>
+	
+	</div>
+	<div  style="text-align: right; padding-right: 70px;"> Logged in as: <a href = '/accounts/profile/'><b>
+	{% if request.user.name %} {{ request.user.name }} 
+	{% elif request.user.email %} {{request.user.email}}
+	{% elif request.user.username %} {{request.user.username}}
+	{% else %} big error contact administrator
+	{% endif %}
+
+
+	</b> </a></div>
+	<div  style="text-align: right; padding-right: 70px; font-size: 15px"><a href = "{% url 'logout' %}">logout </a>
+	
+	</div>
+
+
+{% else %}
+	{% if request.get_full_path != "/login/"  and  request.get_full_path != "/accounts/register/" %}
+	<div  style="text-align: right; padding-right: 70px;"><a href="{% url 'login' %}"> Login </a> or <a href = "{% url 'account-register' %}">Register</a>
+	</div>
+	{% endif %}
+
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+

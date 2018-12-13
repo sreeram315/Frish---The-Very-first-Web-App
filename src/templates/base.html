@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	{% include 'snippets/css.html' %}
+	<title>{% block head_name %} SRM{% endblock head_name %}</title>
+	
+</head>
+
+
+<body>
+	<div style="text-align: center;">
+	Hello re! This is Sreeram Maram!! How are you !!<br/>
+	</div>
+	{% include 'snippets/nav_home.html' %}
+
+		<div class='cont_ex>'>
+		{% block cont_ex %}<br/>
+		{% endblock cont_ex %}
+		</div>
+
+	{% include 'snippets/js.html' %}
+</body>
+
+
+</html>

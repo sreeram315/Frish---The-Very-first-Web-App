@@ -1,0 +1,75 @@
+<style type="text/css">
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 96%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+
+{% extends 'base.html' %}
+
+
+
+{% block cont_ex %}
+
+
+<br/><br/><br/>
+<div style="padding-left: 70px">
+{% if request.GET.q %}
+Search for '{{ request.GET.q }}'
+{% endif %}
+<form method="GET" action="{% url 'account-list' %}" style="text-align: right; padding-right: 50px">
+	<input type="text" placeholder="Name, userid, email?" name="q" value="{{ request.GET.q }}">
+	<button class="btn btn-primary" type="submit" >Surch</button>
+</form>
+
+<h4> No. of accounts {% if request.GET.q %} yielded {% else %} listed {% endif %}: {{ object_list.count }}</h4>
+<div style="padding-bottom: 60px; padding-top: 20px">
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Username</th>
+    <th>DOB</th>
+    <th>Contact</th>
+    <th>Followers</th>
+    <th>Last online</th>
+    <th>Description</th>
+  </tr>
+
+
+{% for obj in object_list %}
+<tr> 
+	<td>{% if obj.owner == request.user %}
+			<a href="/accounts/profile/">
+		{% else %}
+	 		<a href="{% url 'account-openprofile' slug=obj.slug %}">
+	 	{% endif %}
+	{{ obj.name }}</a></td>
+	<td>{{ obj.email }}</td>
+	<td>{{ obj.username }}</td>
+	<td>{{ obj.dob }}</td>
+	<td>{{ obj.contact }}</td>
+	<td>{{ obj.followers.count }}</td>
+	<td> {{ obj.updated }}</td>
+	<td> {{ obj.description }}</td>
+</tr>
+
+{% endfor %}
+</div>
+</table>
+</div>
+
+{% endblock %}

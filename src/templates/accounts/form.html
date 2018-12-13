@@ -1,0 +1,43 @@
+<style>
+/* In add-new.html */
+ input[type=text] {
+    width: 20%;
+    padding-left: 60px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+/*////	/////	////*/
+</style>
+
+
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}{{ title }}: {{ object.username.upper }} || SRM {% endblock head_name %}			
+
+
+<!-- main block -->
+
+{% block cont_ex %}<br/>
+
+
+
+{% if request.user == object.owner %}
+<div style="text-align: left;">
+<h2 style="color: blue; display: inline;  text-align: left; padding-left: 50px"> {{ title }}</h2>
+<div style="display: inline;">({{object.name}}) </div><br/><br/><br/>
+</div>
+
+<form class="form_stu_entry" method = "POST" style="text-align: left; padding-left: 70px"> {% csrf_token %}
+	{{ form.as_p }}
+	<button type="submit">Submit</button>
+</form>
+
+{% else %}
+<h3 style="color: red"><br/><br/><br/>NOT YOUR PROPERTY</h3><br/><br/><br/>
+Owned by user: <b>{{ object.owner }}</b><br/>
+You are: <b> {{ request.user }}</b><br/>
+{% 	endif %}
+
+{% endblock cont_ex %}

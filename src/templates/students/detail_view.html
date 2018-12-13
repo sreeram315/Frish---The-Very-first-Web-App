@@ -1,0 +1,83 @@
+
+<style type="text/css">
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 96%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}Details:{{ object.reg_no }} || SRM {% endblock head_name %}			
+
+
+<!-- main block -->
+
+{% block cont_ex %}<br/><br/><br/><br/><br/><br/>
+<h4 style="text-align: left; padding-left: 60px;">Details of Registration number: {{ object.reg_no }}</h4><br/>
+{% if request.user == object.owner %}
+<div style="text-align: left; padding-left: 65px;">
+	Owned by user: <b>{{ object.owner }}</b> 
+<table >
+  <tr>
+    <th>Name:</th> 				<td>{{object.name}}</td>
+  </tr>
+  <tr>
+    <th>Section:</th> 			<td><a href="/students/students_list/?q={{object.section}}">{{object.section}}</a></td>
+  </tr>
+  <tr>
+    <th>CGPA:</th>				<td>{{object.cgpa}}</td>
+  </tr>
+  <tr>
+    <th>Date of Birth:</th>		<td>{{object.dob}}</td>
+  </tr>
+  <tr>
+    <th>Contact:</th>			<td>{{object.contact}}</td>
+  </tr>
+  <tr>
+    <th>Gender:</th>			<td>{{object.gender}}</td>
+  </tr>
+  <tr>
+    <th>Batch:</th>				<td>{{object.batch}}</td>
+  </tr>
+  <tr>
+    <th>Department:</th>		<td>{{object.department}}</td>
+  </tr>
+  <tr>
+    <th>State:</th>				<td>{{object.state}}</td>
+  </tr>
+  <tr>
+    <th>Address:</th>			<td>{{object.address}}</td>
+  </tr>
+  <tr>
+    <th>Last Updated:</th>		<td>{{object.updated}}</td>
+  </tr>
+  <tr>
+    <th>Description:</th>		<td>{{object.description}}</td>
+  </tr>
+</table>
+
+<a href = "{% url 'students-update' pk=object.pk %}" style="text-align: right; ">update</a>
+{% else %}
+<div style="text-align: center;">
+<h3 style="color: red">NOT YOUR PROPERTY</h3><br/><br/><br/>
+Owned by user: <b>{{ object.owner }}</b><br/>
+You are: <b> {{ request.user }}</b><br/></div>
+{% 	endif %}
+
+
+{% endblock cont_ex %}
+
+
+

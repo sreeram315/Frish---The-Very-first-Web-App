@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+
+{% block cont_ex %}
+
+<br/><br/><br/>
+<div style="text-align: center;">
+<form method="POST" enctype="multipart/form-data">{% csrf_token %}
+	<div style="font-family: Arial; font-size: 32px; color: blue"><b>Upload Students file</b></div><br/><br/>
+	<div style="color: red">upload only .csv files with the following column format<br/></div>
+			<div>
+				  RegNo 
+				 |Name 
+				 |DOB 
+				 |CGPA 
+			 	 |Address 
+				 |Section 
+				 |Contact 
+				 |Batch 
+				 |Department 
+				 |Description 
+				 |Gender 
+	</div><br/>
+	<input type="file" name="docfile">&ensp;&ensp;&ensp;
+	<button class="btn btn-primary" type="submit">Upload</button>
+
+</form>
+</div>
+
+
+
+{% endblock cont_ex %}

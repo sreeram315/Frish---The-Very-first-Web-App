@@ -27,6 +27,13 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+EMAIL_HOST          =       'smtp.gmail.com'
+EMAIL_HOST_USER     =       'sreerammaram2@gmail.com'
+EMAIL_HOST_PASSWORD =       'sreeramM31@'
+EMAIL_PORT          =       587
+EMAIL_USE_TLS       =       True
+DEFAULT_FROM_EMAIL  =       'Sreeram Maram <sreerammaram2@gmail.com>'
+
 
 # Application definition
 
@@ -37,6 +44,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'students',
+    'accounts',
+    'twitter',
+    'counter',
+    'shortenurl'
 ]
 
 MIDDLEWARE = [
@@ -54,7 +67,7 @@ ROOT_URLCONF = 'frish.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -118,3 +131,28 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = '/'
+
+
+
+
+MEDIA_ROOT  =   os.path.join(BASE_DIR, 'data')
+
+CORS_REPLACE_HTTPS_REFERER      = False
+HOST_SCHEME                     = "http://"
+SECURE_PROXY_SSL_HEADER         = None
+SECURE_SSL_REDIRECT             = False
+SESSION_COOKIE_SECURE           = False
+CSRF_COOKIE_SECURE              = False
+SECURE_HSTS_SECONDS             = None
+SECURE_HSTS_INCLUDE_SUBDOMAINS  = False
+SECURE_FRAME_DENY               = False
+
+
+
+
+
+
+
+

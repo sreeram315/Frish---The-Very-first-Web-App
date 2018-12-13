@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+
+
+{% block cont_ex %}
+
+<br/><br/><br/>
+<div style="text-align: center; ">
+	<div style="font-size: 24px">
+ Your link	'<b>{{ original_link }}</b>' has been shortened <br/> and can now be redirected through: <br/>
+
+	<p><b><i><a href = "/su/{{redirection_link}}">	127.0.0.1:8000/su/{{ redirection_link }}	</a></i></b></p>
+</div>
+<p> Kindly note it</p>
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h5 style="text-align: center;color: red">
+Thank you for using our service.
+</h5>
+
+
+{% endblock cont_ex %}

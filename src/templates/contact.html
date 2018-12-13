@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}Contact || SRM{% endblock head_name %}
+
+
+
+
+<!-- main block  -->
+{% block cont_ex %}
+{{ block.super }}
+<div class='centre-text'>
+You can contact Mr. Sreerama Maram, id = {% if reg_id %} {{ reg_id }} {% else %} Not provided {% endif %} <br/>
+<b>CONTACT:</b> <br/><br/>
+Ph.no. 8919937557 <br/>
+Email: sreerammaram2@gmail.com
+</div>
+
+{% endblock cont_ex %}

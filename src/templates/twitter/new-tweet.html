@@ -1,0 +1,32 @@
+<style>
+/* In add-new.html */
+ input[type=text] {
+    width: 20%;
+    padding-left: 60px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+/*////	/////	////*/
+</style>
+
+
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}New Tweet || Twitter {% endblock head_name %}			
+
+
+<!-- main block -->
+
+{% block cont_ex %}<br/>
+
+<h4 style="text-align: left; padding-left: 60px;">{{ title }}</h4><br/>
+
+<form class="form_stu_entry" method = "POST" style="text-align: left; padding-left: 50px"> {% csrf_token %}
+	{{ form.as_p }}
+	<button type="submit" class="btn btn-primary">tweet</button>
+</form>
+
+
+{% endblock cont_ex %}

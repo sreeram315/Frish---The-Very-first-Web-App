@@ -1,0 +1,93 @@
+<style type="text/css">
+.text_input {
+  width: 30%;
+  padding: 8px 20px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.submit {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 15px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #45a049;
+}
+</style>
+
+
+
+
+
+{% extends 'base.html' %}
+{% block cont_ex %}
+<br/>
+{% if form.errors %}
+<div style="color: maroon; text-align: left">
+	{{form.errors}}
+</div>
+{% endif %}
+
+<h4 style="text-align: left; padding-left: 3%; color: red">Register an account</h4><br/>
+
+
+
+<div style="padding-left: 7%">
+<form class="form_stu_entry" method = "POST" style="text-align: left; padding-left: 50px"> {% csrf_token %}
+	<input type="text" placeholder="Name" class="text_input" name = "name" value="{{request.POST.name}}"><br/>
+	<input type="text" placeholder="Choose a username" name = "username" class="text_input" value="{{request.POST.username}}"><br/>
+	<input type="text" placeholder="Active email" name = "email" class="text_input" value="{{request.POST.email}}"><br/>
+	<input type="password" placeholder="Choose a  password" name = "pass1" class="text_input" value="{{request.POST.pass1}}"><br/>
+	<input type="password" placeholder="Confirm password" name = "pass2" class="text_input" value="{{request.POST.pass2}}"><br/>
+	<button class="btn btn-primary" type="submit">Sign up</button>
+</form>
+</div>
+
+
+
+
+{% endblock cont_ex %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

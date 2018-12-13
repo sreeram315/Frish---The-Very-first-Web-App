@@ -1,0 +1,47 @@
+<style>
+/* In add-new.html */
+ input[type=text] {
+    width: 20%;
+    padding-left: 60px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+/*////	/////	////*/
+</style>
+
+
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}New Student Entry || SRM {% endblock head_name %}			
+
+
+<!-- main block -->
+
+{% block cont_ex %}<br/>
+
+<h4 style="text-align: left; padding-left: 60px;">{{ title }} {{ object.reg_no }}</h4><br/>
+
+<form class="form_stu_entry" method = "POST" style="text-align: left; padding-left: 50px"> {% csrf_token %}
+	{{ form.as_p }}
+	<button type="submit">Submit</button>
+</form>
+
+
+{% endblock cont_ex %}
+
+
+
+	<input type="text" name = "reg_no" placeholder="Reg Number"><br/>
+	<input type="text" name = "name" placeholder="Name"><br/>
+	<input type="text" name = "cgpa" placeholder="CGPA"><br/>
+	<input type="date" name = "dob" placeholder="Date of Birth"><br/>
+	<input type="text" name = "section" placeholder="Section"><br/>
+	<input type="text" name = "contact" placeholder="Contact"><br/>
+	<input type="text" name = "batch" placeholder="Batch"><br/>
+	<input type="text" name = "address" placeholder="Address"><br/>
+	<input type="text" name = "department" placeholder="Department"><br/>
+	<input type="text" name = "slug" placeholder="Custom Slug(optional)"><br/>
+	<input type="text" name = "description" placeholder="Description"><br/>
+	<button type="submit">Submit</button>

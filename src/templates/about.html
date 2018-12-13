@@ -1,0 +1,21 @@
+
+
+{% extends 'base.html' %}
+
+<!-- header name  -->
+{% block head_name %}About || SRM {% endblock head_name %}			
+
+
+<!-- main block -->
+{% block cont_ex %}<br/>
+<div class='centre-text'>
+<b>ABOUT:</b> <br/><br/>
+
+User: <b>{{ request.user }} </b> <br/>
+
+Nothing to tell about!
+</div>
+
+{% endblock cont_ex %}
+
+  

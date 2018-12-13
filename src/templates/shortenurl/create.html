@@ -1,0 +1,81 @@
+<style type="text/css">
+.text_input {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.submit {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 15px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #45a049;
+}
+
+
+</style>
+
+{% extends 'base.html' %}
+
+
+
+{% block cont_ex %}
+
+<!-- {% if form.errors %}
+    <ol>
+    {% for error in form.errors %}
+        <li><strong>{{ error|escape }}</strong></li>
+    {% endfor %}
+{% endif %} -->
+
+<h1 style="color: red; padding-left: 50px;"> Shorten Url: </h1>
+<br/><br/><br/><br/>
+{% if form.errors %}
+	{{form.errors}}
+{% endif %}
+
+<div class="form-1" style="padding-left: 30%">
+	<form method="POST">{% csrf_token %}
+		Your Name 		: &ensp;&ensp;&ensp;&ensp; <input class="text_input" type="text" name="creater" placeholder="optional"><br/>
+		Original Url* 	: &ensp;&ensp;&ensp; <input class="text_input" type="text" name="original_link" placeholder="your url here"><br/>
+		Redirection url : &ensp; <input class="text_input" type="text" name="redirection_link" placeholder="optional"><br/>
+		
+		<div style=""><button class="btn btn-primary" type='submit'>create</button></div>
+	</form>
+</div>
+
+
+
+{% endblock cont_ex %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

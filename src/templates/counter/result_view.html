@@ -1,0 +1,138 @@
+<script type="text/javascript">
+	function view_counter_details(){
+		var x = document.getElementById("hide-details");
+		var y = document.getElementById("details-btn");
+	    if (x.style.display === "none") {
+	        x.style.display = "block";
+	        y.innerHTML     = "Hide details";
+	    }
+	    else {
+	        x.style.display = "none";
+	        y.innerHTML     = "View details";
+	    }
+	}
+</script>
+
+
+<style type="text/css">
+	.counter-details{
+		/*display: none;*/
+	}
+	.btn-own{
+		padding-right: 40px;
+		text-align: right;
+	}
+	.red-big{
+		display: inline;
+		color: ;
+		font-size: 29px;
+	}
+	.small-grey{
+		display: inline;
+		opacity: 0.6;
+
+	}
+	table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 96%;
+	}
+
+	td, th {
+	    border: 1px solid #dddddd;
+	    text-align: left;
+	    padding: 6px;
+	}
+
+	tr:nth-child(even) {
+	    background-color: #dddddd;
+	}
+</style>
+
+
+
+{% extends 'base.html' %}
+
+
+
+
+
+{% block cont_ex %}
+
+
+<div style="padding-left: 40px; padding-top: 60px">
+<div class="red-big"> Counter. {{ object.name }}</div> <div class="small-grey"> by {{ object.creater }} </div><br/><br/><br/>
+<div style="text-align: right; padding-right: 30px;">
+	<button class="btn btn-default" id="details-btn" onclick="view_counter_details()">Hide details</button></div>
+<h1>Count: <div style="color: blue; display: inline;">{{object.result}}</div></h1>
+</div>
+<br/><br/>
+<div class="counter-details" id = "hide-details">
+
+	<div style="text-align: left; padding-left: 60px; ">
+		<b>Details of Counter:</b>  	{{ object.name }}<br/>
+		<b>Count up link:	  </b>	&ensp;&ensp;&ensp;	http://127.0.0.1:8000{%url 'counter-up' slug=object.slug %}<br/>
+		<b>Count down link:   </b>	&ensp;http://127.0.0.1:8000{%url 'counter-up' slug=object.slug %}<br/>
+	</div>
+	<div class="btn-own">
+	<button class="btn btn-default"  ><a href="{%url 'counter-up' slug=object.slug %}"> Count up</a></button>&ensp;
+	<button class="btn btn-default" ><a href="{%url 'counter-down' slug=object.slug %}">Count down</a></button>
+	</div>
+	<br/>
+		<div style="text-align: left; padding-left: 65px;">
+			
+				<table>
+					  <tr>
+					  	<th>Counter</th>
+					    <th>Action Type</th>
+					    <th>Date and time</th>
+					    <th>Previous value</th>
+					    <th>New Value</th>
+					    <th>Operation Successful</th>
+					  </tr>
+					{% for detail in details %}
+
+						<tr>
+							<td>{{ detail.action_count }}</td>
+							<td>{{ detail.action }}</td>
+							<td>{{ detail.date_time }}</td>
+							<td>{{ detail.previous_value }}</td>
+							<td>{{ detail.next_value }}</td>
+							{% if detail.operation_success %}
+								<td>Yes</td>
+							{% else %}
+								<td>No</td>
+							{% endif %}
+						</tr>
+				
+
+					{% endfor %}
+				</table>
+		</div>
+	</div>
+
+
+{% endblock cont_ex %}Field(null = True, blank = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

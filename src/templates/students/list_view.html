@@ -1,0 +1,133 @@
+<style type="text/css">
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 96%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<script type="text/javascript">
+    onChange="this.form.submit()"
+</script>
+
+
+{% extends 'base.html' %}
+
+{% block cont_ex %}
+
+
+
+
+<div style="text-align: left; padding-left: 67px; padding-bottom: 90px">
+
+
+<h1 style="color: red"> Students List: </h1> 
+<form id = "form_stu" class="fff" method="GET" action="." style="text-align: right; padding-right: 5%">
+	
+    <b>Search</b>: &ensp;<input type="text" placeholder="Name, id, section ?" name="q" value="{{ request.GET.q }}">&ensp; ||
+	
+    Sort by:&ensp; <select name="order_by">
+        <option {% if order_by == 'name' %} selected {% endif %} value="name">  Name</option>
+        <option {% if order_by == 'dob' %} selected {% endif %} value="dob">            DOB</option>
+        <option {% if order_by == 'section' %} selected {% endif %} value="section">        Section</option>
+        <option {% if order_by == 'cgpa' %} selected {% endif %} value="cgpa">           CGPA</option>
+        <option {% if order_by == 'batch' %} selected {% endif %} value="batch">          Batch</option>
+        <option {% if order_by == 'department' %} selected {% endif %} value="department">     Department</option>
+        <option {% if order_by == 'state' %} selected {% endif %} value="state">          State</option>
+        <option {% if order_by == 'reg_no' %} selected {% endif %} value="reg_no">         Registration number</option>
+    </select>&ensp;  || 
+
+    Gender:&ensp; <select name="gender_select">
+        <option {% if gender_select == 'A' %} selected {% endif %} value="MF">  All</option>
+        <option {% if gender_select == 'M' %} selected {% endif %} value="M">  Male</option>
+        <option {% if gender_select == 'F' %} selected {% endif %} value="F">  Female</option>
+    </select><br/> || 
+
+    State:&ensp; <select name="state_select">
+        <option selected value="">  ALL</option>
+        {% for state in states_list %}
+            {% if state_select == state %}
+                <option selected value={{ state }}>  {{ state }}</option>
+            {% else %}
+                <option value={{ state }}>  {{ state }}</option>
+            {% endif %}
+        {% endfor %}
+    </select><br/>
+    {{state_select}}
+
+    reverse?&ensp; <input onchange="document.getElementById('form_stu').submit()" class="bbb" style="padding-right: 10%" type="checkbox" name="rev" value="ulta" {% if reverse %} checked {% endif %} ><br/>
+    
+    View top: <input type="text" name="top_n" value="{{ request.GET.top_n }}" placeholder="0,10..." style="width: 5%"><br/>
+    <button class="btn btn-primary" type="submit" >Apply</button>
+</form>
+<br/>
+<div style="text-align: right;padding-right: 10%">
+    
+</div>
+
+
+
+{% if request.GET.q %}
+Search for '{{ request.GET.q }}'
+{% endif %}
+
+
+<h4> No. of students yeilded: {{ total_qcount }}, listed : {{ object_list.count }}</h4>  
+<p style="text-align: right; padding-right: 70px">
+    <a href="{% url 'students-upload' %}"> Upload data </a> |
+    <a href="/students/add-new"> New Entry </a>
+</p>
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <th>Reg No.</th>
+    <th>Name</th>
+    <th>Section</th>
+    <th>CGPA</th>
+    <th>DOB</th>
+    <th>Contact</th>
+    <th>Gender</th>
+    <th>Batch</th>
+    <th>Department</th>
+    <th>State</th>
+    <th>Last updated</th>
+  </tr>
+
+
+{% for obj in object_list %}
+<tr>
+	<td>{{ obj.reg_no }}</td>
+	<td><a href="/students/details/{{ obj.slug }}">{{ obj.name }}</a></td>
+	<td>{{ obj.section }}</td>
+	<td>{{ obj.cgpa }}</td>
+	<td>{{ obj.dob }}</td>
+	<td>{{ obj.contact }}</td>
+    <td>{{ obj.gender }}</td>
+	<td>{{ obj.batch }}</td>
+	<td>{{ obj.department }}</td>
+	<td>{{ obj.state }}</td>
+	<td> {{ obj.updated }}</td>
+</tr>
+
+{% endfor %}
+
+{% endblock cont_ex %}
+

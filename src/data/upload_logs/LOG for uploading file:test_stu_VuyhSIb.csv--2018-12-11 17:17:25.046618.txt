@@ -1,0 +1,6552 @@
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 0, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 1, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 2, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 3, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 4, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 5, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 6, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 7, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 8, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 9, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 10, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 11, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 12, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 13, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 14, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 15, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 16, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 17, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 18, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 19, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 20, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 21, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 22, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 23, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 24, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 25, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 26, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 27, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 28, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 29, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 30, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 31, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 32, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 33, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 34, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 35, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 36, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 37, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 38, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 39, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 40, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 41, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 42, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 43, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 44, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 45, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 46, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 47, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 48, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 49, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 50, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 51, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 52, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 53, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 54, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 55, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 56, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 57, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 58, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 59, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 60, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 61, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 62, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 63, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 64, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 65, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 66, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 67, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 68, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 69, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 70, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 71, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 72, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 73, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 74, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 75, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 76, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 77, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 78, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 79, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 80, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 81, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 82, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 83, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 84, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 85, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 86, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 87, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 88, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 89, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 90, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 91, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 92, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 93, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 94, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 95, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 96, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 97, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 98, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 99, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 100, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 101, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 102, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 103, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 104, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 105, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 106, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 107, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 108, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 109, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 110, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 111, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 112, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 113, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 114, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 115, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 116, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 117, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 118, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 119, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 120, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 121, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 122, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 123, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 124, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 125, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 126, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 127, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 128, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 129, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 130, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 131, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 132, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 133, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 134, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 135, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 136, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 137, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 138, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 139, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 140, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 141, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 142, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 143, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 144, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 145, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 146, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 147, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 148, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 149, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 150, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 151, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 152, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 153, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 154, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 155, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 156, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 157, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 158, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 159, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 160, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 161, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 162, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 163, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 164, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 165, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 166, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 167, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 168, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 169, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 170, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 171, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 172, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 173, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 174, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 175, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 176, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 177, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 178, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 179, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 180, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 181, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 182, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 183, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 184, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 185, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 186, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 187, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 188, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 189, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 190, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 191, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 192, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 193, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 194, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 195, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 196, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 197, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 198, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 199, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 200, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 201, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 202, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 203, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 204, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 205, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 206, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 207, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 208, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 209, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 210, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 211, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 212, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 213, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 214, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 215, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 216, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 217, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 218, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 219, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 220, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 221, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 222, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 223, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 224, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 225, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 226, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 227, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 228, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 229, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 230, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 231, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 232, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 233, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 234, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 235, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 236, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 237, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 238, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 239, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 240, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 241, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 242, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 243, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 244, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 245, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 246, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 247, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 248, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 249, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 250, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 251, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 252, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 253, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 254, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 255, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 256, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 257, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 258, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 259, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 260, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 261, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 262, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 263, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 264, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 265, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 266, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 267, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 268, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 269, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 270, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 271, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 272, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 273, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 274, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 275, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 276, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 277, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 278, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 279, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 280, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 281, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 282, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 283, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 284, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 285, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 286, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 287, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 288, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 289, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 290, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 291, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 292, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 293, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 294, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 295, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 296, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 297, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 298, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 299, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 300, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 301, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 302, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 303, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 304, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 305, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 306, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 307, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 308, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 309, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 310, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 311, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 312, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 313, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 314, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 315, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 316, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 317, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 318, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 319, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 320, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 321, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 322, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 323, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 324, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 325, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 326, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 327, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 328, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 329, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 330, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 331, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 332, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 333, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 334, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 335, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 336, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 337, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 338, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 339, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 340, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 341, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 342, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 343, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 344, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 345, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 346, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 347, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 348, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 349, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 350, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 351, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 352, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 353, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 354, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 355, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 356, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 357, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 358, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 359, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 360, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 361, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 362, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 363, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 364, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 365, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 366, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 367, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 368, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 369, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 370, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 371, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 372, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 373, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 374, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 375, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 376, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 377, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 378, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 379, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 380, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 381, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 382, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 383, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 384, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 385, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 386, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 387, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 388, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 389, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 390, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 391, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 392, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 393, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 394, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 395, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 396, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 397, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 398, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 399, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 400, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 401, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 402, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 403, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 404, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 405, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 406, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 407, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 408, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 409, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 410, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 411, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 412, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 413, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 414, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 415, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 416, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 417, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 418, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 419, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 420, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 421, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 422, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 423, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 424, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 425, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 426, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 427, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 428, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 429, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 430, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 431, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 432, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 433, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 434, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 435, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 436, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 437, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 438, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 439, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 440, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 441, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 442, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 443, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 444, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 445, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 446, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 447, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 448, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 449, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 450, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 451, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 452, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 453, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 454, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 455, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 456, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 457, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 458, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 459, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 460, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 461, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 462, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 463, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 464, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 465, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 466, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 467, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 468, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 469, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 470, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 471, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 472, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 473, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 474, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 475, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 476, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 477, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 478, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 479, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 480, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 481, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 482, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 483, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 484, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 485, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 486, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 487, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 488, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 489, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 490, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 491, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 492, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 493, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 494, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 495, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 496, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 497, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 498, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 499, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 500, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 501, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 502, dtype: datetime64[ns]
+
+
+Failed for RegNo        NaT
+Name         NaT
+DOB          NaT
+CGPA         NaT
+Address      NaT
+Section      NaT
+Contact      NaT
+Batch        NaT
+Department   NaT
+Gender       NaT
+Name: 503, dtype: datetime64[ns]
+
+

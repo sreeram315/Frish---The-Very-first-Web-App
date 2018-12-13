@@ -1,0 +1,13 @@
+Failed for RegNo                                                  11508981
+Name                                             Gone Prashanth
+DOB                                         1997-04-20 00:00:00
+CGPA                                                       2.52
+Address       D.NO:1-102, MARRIVANIPALLI, JAMMIKUNTA MANDAL,...
+Section                                              9849106956
+Contact                                                    2015
+Batch         P135 : B.Tech. (Electronics & Communication En...
+Department                                                    M
+Gender                                                      NaN
+Name: 946, dtype: object
+
+
